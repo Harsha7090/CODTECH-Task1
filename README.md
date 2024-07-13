@@ -40,3 +40,5 @@ Handles events such as adding and deleting tasks, and dynamically updates the DO
 index.html: Contains the HTML structure of the app.
 styles.css: Contains the CSS styles for the app.
 script.js: Contains the JavaScript code for the app's functionality.
+
+
